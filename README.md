@@ -43,7 +43,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YomalD12&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 [![YomalD12 Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=YomalD12&theme=algolia)](https://github.com/YomalD12/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YomalD12&theme=algolia)](https://github.com/YomalD12/github-readme-stats) 
-[![YomalD12 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YomalD12&theme=algolia)](https://github.com/YomalD12/github-readme-stats)
 
 <br>
 
@@ -63,6 +62,3 @@
 
 ---
 
-Credit: [AnushkaWijegoonawardana97](https://github.com/YomalD12)
-
-Last edited on: 30/06/2022
