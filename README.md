@@ -14,7 +14,11 @@
 
 <br>
 
-[(https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97)[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+
+[![@JuanZapata](https://img.icons8.com/fluency/48/000000/facebook.png "@JuanZapata")](https://www.facebook.com/profile.php?viewas=100000686899395&id=100034806346670) 
+[![@JuanZapata](https://img.icons8.com/fluency/48/000000/linkedin.png "@JuanZapata")](https://www.linkedin.com/in/juan-zapata-073605286/) 
+[![@0996183192](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0996183192")](tel:0996183192) [![@yomald1212@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@yomald1212@gmail.com")](yomald1212@gmail.com)
+
 
 <br>
 
