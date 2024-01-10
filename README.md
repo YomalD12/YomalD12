@@ -46,6 +46,22 @@
 
 <br>
 
+## Consulte mi repositorio de GitHub:
+
+<div>
+  <p>
+    <a href="https://github.com/YomalD12/SeguridadCe.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YomalD12&repo=SeguridadCe&theme=swift&show_icons=true" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/YomalD12/SeguridadCe.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YomalD12&repo=SeguridadCe&theme=swift&show_icons=true" />
+    </a>
+  </p>
+</div>
+
+
 ## Trofeos de GitHub  🏆 :
 
 <br>
