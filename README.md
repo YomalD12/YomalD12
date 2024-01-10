@@ -53,10 +53,11 @@
     <a href="https://github.com/YomalD12/SeguridadCe.git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YomalD12&repo=SeguridadCe&theme=swift&show_icons=true" />
     </a>
-  </p>
-  <p>
-    <a href="https://github.com/YomalD12/SeguridadCe.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YomalD12&repo=SeguridadCe&theme=swift&show_icons=true" />
+    <a href="https://github.com/YomalD12/Blog-1.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YomalD12&repo=Blog-1&theme=swift&show_icons=true" />
+    </a>
+    <a href="https://github.com/YomalD12/Trabajo01.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YomalD12&repo=Trabajo01&theme=swift&show_icons=true" />
     </a>
   </p>
 </div>
