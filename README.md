@@ -66,8 +66,8 @@
     </a>
   </p>
   <p>
-    <a href="https://github.com/YomalD12/Sistema-Gestion-Archivos.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YomalD12&repo=Sistema-Gestion-Archivos&theme=swift&show_icons=true" />
+    <a href="https://github.com/YomalD12/easyinvoice-app.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YomalD12&repo=easyinvoice-app&theme=swift&show_icons=true" />
     </a>
     <a href="https://github.com/YomalD12/appSCreditos.git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YomalD12&repo=appSCreditos&theme=swift&show_icons=true" />
