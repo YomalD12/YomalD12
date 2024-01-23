@@ -73,6 +73,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YomalD12&repo=appSCreditos&theme=swift&show_icons=true" />
     </a>
   </p>
+   <p>
+    <a href="https://github.com/YomalD12/Hospital-Reporte.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YomalD12&repo=Hospital-Reporte&theme=swift&show_icons=true" />
+    </a>
+  </p>
 </div>
 
 
