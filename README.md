@@ -5,7 +5,7 @@
 # Sobre mi :grin::
 
 - 💻 Soy un Ingeniero de Software.
-- 💻 Full Stack apasionado.
+- 💻 Full Stack.
 - 🎓 Estudios de Ingeniería de Software en la **Universidad Técnica de Ambato**.
 
 <br>
